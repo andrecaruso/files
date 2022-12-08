@@ -1,0 +1,62 @@
+,PC,GM,score
+0,Abstraction - LF,"Cascading Information, Cut Scene, Story",0.36805838346481323
+1,Abstraction - LF,Collecting,0.32620084285736084
+2,Abstraction - LF,Communal Discovery,0.22394515573978424
+3,Abstraction - LF,Game Turns,0.26001104712486267
+4,Abstraction - LF,Meta-Game Mechanic,0.21662390232086182
+5,Abstraction - LF,Pavlovian Interaction,0.20734794437885284
+6,Abstraction - LF,Protégé Effect,0.21627625823020935
+7,Abstraction - LF,Questions and Answers,0.30083611607551575
+8,Abstraction - LF,Resource Management,0.2358057051897049
+9,Abstraction - LF,Role Playing,0.23056703805923462
+10,Abstraction - LF,Status,0.24066832661628723
+11,Abstraction - LF,Tile Based and Physical Movement,0.25732243061065674
+12,Abstraction - LF,Tile-Laying,0.26252424716949463
+13,Abstraction - LF,Virality,0.22060102224349976
+14,Algorithm - LF,Appointment,0.3123449981212616
+15,Algorithm - LF,"Cascading Information, Cut Scene, Story",0.29512253403663635
+16,Algorithm - LF,Collecting,0.22297391295433044
+17,Algorithm - LF,Communal Discovery,0.262614905834198
+18,Algorithm - LF,Game Turns,0.2015495002269745
+19,Algorithm - LF,Pavlovian Interaction,0.23036587238311768
+20,Algorithm - LF,Protégé Effect,0.2986217439174652
+21,Algorithm - LF,Questions and Answers,0.26339247822761536
+22,Algorithm - LF,Quick Feedback,0.25695809721946716
+23,Algorithm - LF,Resource Management,0.2280503809452057
+24,Algorithm - LF,Role Playing,0.20559442043304443
+25,Automation - LF,Action Points,0.20124965906143188
+26,Automation - LF,Appointment,0.3626524806022644
+27,Automation - LF,"Cascading Information, Cut Scene, Story",0.2295466661453247
+28,Automation - LF,Collecting,0.2559097707271576
+29,Automation - LF,Communal Discovery,0.32272401452064514
+30,Automation - LF,Cooperation-Collaboration,0.22519101202487946
+31,Automation - LF,Game Turns,0.21892765164375305
+32,Automation - LF,Infinite Gameplay,0.20227982103824615
+33,Automation - LF,Meta-Game Mechanic,0.21323053538799286
+34,Automation - LF,Pavlovian Interaction,0.24399839341640472
+35,Automation - LF,Protégé Effect,0.38288575410842896
+36,Automation - LF,Questions and Answers,0.24967503547668457
+37,Automation - LF,Quick Feedback,0.2475520819425583
+38,Automation - LF,Resource Management,0.21365006268024445
+39,Automation - LF,Role Playing,0.30802610516548157
+40,Automation - LF,Tile Based and Physical Movement,0.22109869122505188
+41,Automation - LF,Virality,0.20206283032894135
+42,Data- LF,"Cascading Information, Cut Scene, Story",0.24314290285110474
+43,Data- LF,Collecting,0.26592713594436646
+44,Data- LF,Communal Discovery,0.2595473527908325
+45,Data- LF,Questions and Answers,0.2283373773097992
+46,Data- LF,Resource Management,0.21117040514945984
+47,Data- LF,Tile Based and Physical Movement,0.260961651802063
+48,Data- LF,Tile-Laying,0.22738106548786163
+49,Decomposition - LF,"Cascading Information, Cut Scene, Story",0.3392752408981323
+50,Decomposition - LF,Collecting,0.2750544250011444
+51,Decomposition - LF,Communal Discovery,0.2823890447616577
+52,Decomposition - LF,Game Turns,0.2752714157104492
+53,Decomposition - LF,Infinite Gameplay,0.2139747440814972
+54,Decomposition - LF,Pareto Optimal,0.21775290369987488
+55,Decomposition - LF,Questions and Answers,0.24138616025447845
+56,Decomposition - LF,Quick Feedback,0.21971169114112854
+57,Decomposition - LF,Resource Management,0.28228819370269775
+58,Decomposition - LF,Status,0.2262192964553833
+59,Decomposition - LF,Virality,0.2582061290740967
+60,Evaluation - LF,Capture-Eliminate,0.20230534672737122

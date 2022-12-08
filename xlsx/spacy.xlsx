@@ -1,0 +1,27 @@
+,GM,PC,score
+0,Action Points,abstraction,0.24421900510787964
+1,Appointment,abstraction,0.356379896402359
+2,Behavioral Momentum,evaluation,0.5576109886169434
+3,Capture-Eliminate,data,0.38296273350715637
+4,"Cascading Information, Cut Scene, Story",data,0.5610074400901794
+5,Collecting,abstraction,0.44696953892707825
+6,Communal Discovery,abstraction,0.37285956740379333
+7,Cooperation-Collaboration,abstraction,0.324675977230072
+8,Game Turns,abstraction,0.3020777404308319
+9,Infinite Gameplay,abstraction,0.6997860074043274
+10,Meta-Game Mechanic,evaluation,0.5005753040313721
+11,Ownership,evaluation,0.38106369972229004
+12,Pareto Optimal,evaluation,0.4184417724609375
+13,Pavlovian Interaction,evaluation,0.44318240880966187
+14,Protégé Effect,data,0.4803028702735901
+15,Questions and Answers,evaluation,0.32875895500183105
+16,Quick Feedback,evaluation,0.3262770473957062
+17,Resource Management,evaluation,0.4864184558391571
+18,Rewards,evaluation,0.5722586512565613
+19,Role Playing,evaluation,0.4054335355758667
+20,Status,evaluation,0.407317191362381
+21,Tile Based and Physical Movement,abstraction,0.308263897895813
+22,Tile-Laying,evaluation,0.3003547191619873
+23,Tokens to Act as Cards or Random Elements,evaluation,0.3024214804172516
+24,Urgent Optimism,evaluation,0.3080577254295349
+25,Virality,evaluation,0.28856587409973145

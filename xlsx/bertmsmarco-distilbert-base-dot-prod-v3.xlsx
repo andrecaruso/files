@@ -1,0 +1,80 @@
+,PC,GM,score
+0,Abstraction,Action Points,0.7023043036460876
+1,Abstraction,Appointment,0.7876028418540955
+2,Abstraction,Behavioral Momentum,0.7131533026695251
+3,Abstraction,Capture-Eliminate,0.7260434627532959
+4,Abstraction,"Cascading Information, Cut Scene, Story",0.7449337840080261
+5,Abstraction,Collecting,0.7358798980712891
+6,Abstraction,Communal Discovery,0.7525860071182251
+7,Abstraction,Game Turns,0.7545451521873474
+8,Abstraction,Infinite Gameplay,0.7414150834083557
+9,Abstraction,Meta-Game Mechanic,0.7207289338111877
+10,Abstraction,Pareto Optimal,0.7304412126541138
+11,Abstraction,Pavlovian Interaction,0.7348905801773071
+12,Abstraction,Questions and Answers,0.7064759731292725
+13,Abstraction,Quick Feedback,0.7901879549026489
+14,Abstraction,Resource Management,0.7351844906806946
+15,Abstraction,Role Playing,0.7281396389007568
+16,Abstraction,Tile Based and Physical Movement,0.7096683979034424
+17,Abstraction,Tokens to Act as Cards or Random Elements,0.7203222513198853
+18,Abstraction,Urgent Optimism,0.7440650463104248
+19,Algorithm,Action Points,0.715580940246582
+20,Algorithm,Appointment,0.7583199143409729
+21,Algorithm,Communal Discovery,0.7055615186691284
+22,Algorithm,Game Turns,0.7255114316940308
+23,Algorithm,Pareto Optimal,0.7668852210044861
+24,Algorithm,Resource Management,0.763377845287323
+25,Automation,Action Points,0.756727933883667
+26,Automation,Appointment,0.792730450630188
+27,Automation,Behavioral Momentum,0.7138476371765137
+28,Automation,Capture-Eliminate,0.7014795541763306
+29,Automation,"Cascading Information, Cut Scene, Story",0.7016676664352417
+30,Automation,Collecting,0.7064769864082336
+31,Automation,Communal Discovery,0.7702579498291016
+32,Automation,Cooperation-Collaboration,0.7126230001449585
+33,Automation,Game Turns,0.748324990272522
+34,Automation,Infinite Gameplay,0.7433853149414062
+35,Automation,Meta-Game Mechanic,0.7177407741546631
+36,Automation,Pareto Optimal,0.7972901463508606
+37,Automation,Pavlovian Interaction,0.729643702507019
+38,Automation,Quick Feedback,0.7991293668746948
+39,Automation,Resource Management,0.7553346753120422
+40,Automation,Role Playing,0.7064019441604614
+41,Automation,Tile Based and Physical Movement,0.7212395668029785
+42,Automation,Tile-Laying,0.707846999168396
+43,Automation,Tokens to Act as Cards or Random Elements,0.7078481912612915
+44,Automation,Urgent Optimism,0.7277014255523682
+45,Decomposition,Action Points,0.7208846211433411
+46,Decomposition,Appointment,0.7427384853363037
+47,Decomposition,"Cascading Information, Cut Scene, Story",0.716614842414856
+48,Decomposition,Communal Discovery,0.7569113373756409
+49,Decomposition,Cooperation-Collaboration,0.7385373711585999
+50,Decomposition,Game Turns,0.7399370074272156
+51,Decomposition,Infinite Gameplay,0.7317276000976562
+52,Decomposition,Meta-Game Mechanic,0.7114648818969727
+53,Decomposition,Pareto Optimal,0.7433757185935974
+54,Decomposition,Pavlovian Interaction,0.7068582773208618
+55,Decomposition,Quick Feedback,0.7625206112861633
+56,Decomposition,Resource Management,0.7395961284637451
+57,Decomposition,Role Playing,0.7062742710113525
+58,Decomposition,Tile Based and Physical Movement,0.7463487386703491
+59,Decomposition,Tile-Laying,0.7047938108444214
+60,Evaluation,Action Points,0.7740670442581177
+61,Evaluation,Appointment,0.752509355545044
+62,Evaluation,Behavioral Momentum,0.7269049882888794
+63,Evaluation,Capture-Eliminate,0.7591989040374756
+64,Evaluation,"Cascading Information, Cut Scene, Story",0.7444654703140259
+65,Evaluation,Collecting,0.719292163848877
+66,Evaluation,Communal Discovery,0.7790482044219971
+67,Evaluation,Cooperation-Collaboration,0.7227067947387695
+68,Evaluation,Game Turns,0.7733363509178162
+69,Evaluation,Infinite Gameplay,0.7694708108901978
+70,Evaluation,Meta-Game Mechanic,0.7470121383666992
+71,Evaluation,Pareto Optimal,0.7884713411331177
+72,Evaluation,Pavlovian Interaction,0.723426342010498
+73,Evaluation,Quick Feedback,0.7776685953140259
+74,Evaluation,Resource Management,0.805374264717102
+75,Evaluation,Rewards,0.7163844108581543
+76,Evaluation,Role Playing,0.7271515727043152
+77,Evaluation,Tile-Laying,0.7183802127838135
+78,Evaluation,Tokens to Act as Cards or Random Elements,0.7508949637413025

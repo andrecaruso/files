@@ -1,0 +1,108 @@
+Limiar: 0.2
+-------------
+all-mpnet-base-v2
+-------------
+Abstraction / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.3065
+Abstraction / Collecting Cosine-Similarity: 0.3464
+Abstraction / Pavlovian Interaction Cosine-Similarity: 0.2277
+Abstraction / Protégé Effect Cosine-Similarity: 0.2468
+Abstraction / Questions and Answers Cosine-Similarity: 0.2104
+Abstraction / Role Playing Cosine-Similarity: 0.2063
+Abstraction / Status Cosine-Similarity: 0.2067
+Abstraction / Tile-Laying Cosine-Similarity: 0.2711
+Abstraction / Tokens to Act as Cards or Random Elements Cosine-Similarity: 0.2077
+Algorithm / Appointment Cosine-Similarity: 0.2123
+Algorithm / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2302
+Algorithm / Communal Discovery Cosine-Similarity: 0.2117
+Algorithm / Game Turns Cosine-Similarity: 0.3238
+Algorithm / Pareto Optimal Cosine-Similarity: 0.2511
+Algorithm / Resource Management Cosine-Similarity: 0.3477
+Algorithm / Tile Based and Physical Movement Cosine-Similarity: 0.2482
+Automation / Action Points Cosine-Similarity: 0.2030
+Automation / Appointment Cosine-Similarity: 0.3017
+Automation / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2851
+Automation / Collecting Cosine-Similarity: 0.2751
+Automation / Communal Discovery Cosine-Similarity: 0.2990
+Automation / Game Turns Cosine-Similarity: 0.2040
+Automation / Meta-Game Mechanic Cosine-Similarity: 0.2093
+Automation / Pavlovian Interaction Cosine-Similarity: 0.2293
+Automation / Protégé Effect Cosine-Similarity: 0.3649
+Automation / Questions and Answers Cosine-Similarity: 0.2354
+Automation / Quick Feedback Cosine-Similarity: 0.2898
+Automation / Resource Management Cosine-Similarity: 0.2025
+Automation / Rewards Cosine-Similarity: 0.2169
+Automation / Role Playing Cosine-Similarity: 0.2336
+Automation / Tokens to Act as Cards or Random Elements Cosine-Similarity: 0.2013
+Automation / Urgent Optimism Cosine-Similarity: 0.2022
+Automation / Virality Cosine-Similarity: 0.2675
+Data / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2526
+Data / Collecting Cosine-Similarity: 0.2564
+Data / Resource Management Cosine-Similarity: 0.2057
+Data / Status Cosine-Similarity: 0.2260
+Data / Tile Based and Physical Movement Cosine-Similarity: 0.2023
+Decomposition / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.3092
+Decomposition / Collecting Cosine-Similarity: 0.2859
+Decomposition / Communal Discovery Cosine-Similarity: 0.2622
+Decomposition / Game Turns Cosine-Similarity: 0.3267
+Decomposition / Infinite Gameplay Cosine-Similarity: 0.2091
+Decomposition / Meta-Game Mechanic Cosine-Similarity: 0.2249
+Decomposition / Pareto Optimal Cosine-Similarity: 0.2631
+Decomposition / Questions and Answers Cosine-Similarity: 0.2361
+Decomposition / Quick Feedback Cosine-Similarity: 0.2598
+Decomposition / Resource Management Cosine-Similarity: 0.2156
+Decomposition / Rewards Cosine-Similarity: 0.2036
+Decomposition / Status Cosine-Similarity: 0.2308
+Decomposition / Tile-Laying Cosine-Similarity: 0.2170
+Decomposition / Virality Cosine-Similarity: 0.2620
+Evaluation / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2082
+Evaluation / Meta-Game Mechanic Cosine-Similarity: 0.2301
+Evaluation / Pareto Optimal Cosine-Similarity: 0.2296
+Evaluation / Resource Management Cosine-Similarity: 0.2378
+Evaluation / Rewards Cosine-Similarity: 0.2183
+total: 57
+-------------
+all-MiniLM-L6-v2
+Abstraction / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.3696
+Abstraction / Collecting Cosine-Similarity: 0.2746
+Abstraction / Game Turns Cosine-Similarity: 0.2546
+Abstraction / Meta-Game Mechanic Cosine-Similarity: 0.2097
+Abstraction / Pavlovian Interaction Cosine-Similarity: 0.2156
+Abstraction / Protégé Effect Cosine-Similarity: 0.2276
+Abstraction / Questions and Answers Cosine-Similarity: 0.2380
+Abstraction / Quick Feedback Cosine-Similarity: 0.2643
+Abstraction / Status Cosine-Similarity: 0.2306
+Abstraction / Tile Based and Physical Movement Cosine-Similarity: 0.2059
+Abstraction / Tile-Laying Cosine-Similarity: 0.2233
+Abstraction / Urgent Optimism Cosine-Similarity: 0.2194
+Abstraction / Virality Cosine-Similarity: 0.2035
+Algorithm / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2205
+Algorithm / Game Turns Cosine-Similarity: 0.2944
+Algorithm / Resource Management Cosine-Similarity: 0.2514
+Automation / Action Points Cosine-Similarity: 0.2499
+Automation / Appointment Cosine-Similarity: 0.3068
+Automation / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2218
+Automation / Collecting Cosine-Similarity: 0.2477
+Automation / Game Turns Cosine-Similarity: 0.2268
+Automation / Protégé Effect Cosine-Similarity: 0.2482
+Automation / Quick Feedback Cosine-Similarity: 0.2310
+Automation / Resource Management Cosine-Similarity: 0.2492
+Automation / Role Playing Cosine-Similarity: 0.2789
+Automation / Urgent Optimism Cosine-Similarity: 0.2743
+Automation / Virality Cosine-Similarity: 0.2137
+Data / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2551
+Data / Collecting Cosine-Similarity: 0.2459
+Decomposition / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.3146
+Decomposition / Collecting Cosine-Similarity: 0.2844
+Decomposition / Communal Discovery Cosine-Similarity: 0.2278
+Decomposition / Cooperation-Collaboration Cosine-Similarity: 0.2028
+Decomposition / Game Turns Cosine-Similarity: 0.3145
+Decomposition / Meta-Game Mechanic Cosine-Similarity: 0.2098
+Decomposition / Pareto Optimal Cosine-Similarity: 0.2177
+Decomposition / Resource Management Cosine-Similarity: 0.2754
+Decomposition / Status Cosine-Similarity: 0.2067
+Decomposition / Tile Based and Physical Movement Cosine-Similarity: 0.2214
+Evaluation / Cascading Information, Cut Scene, Story Cosine-Similarity: 0.2397
+Evaluation / Meta-Game Mechanic Cosine-Similarity: 0.2014
+Evaluation / Pareto Optimal Cosine-Similarity: 0.2333
+Evaluation / Resource Management Cosine-Similarity: 0.2079
+total: 43

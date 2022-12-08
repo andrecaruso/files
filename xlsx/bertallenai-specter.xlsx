@@ -1,0 +1,157 @@
+,PC,GM,score
+0,Abstraction - LF,Action Points,0.7288720607757568
+1,Abstraction - LF,Appointment,0.7817904353141785
+2,Abstraction - LF,Behavioral Momentum,0.7285203337669373
+3,Abstraction - LF,Capture-Eliminate,0.714251697063446
+4,Abstraction - LF,"Cascading Information, Cut Scene, Story",0.712120532989502
+5,Abstraction - LF,Collecting,0.7423096299171448
+6,Abstraction - LF,Communal Discovery,0.7791550159454346
+7,Abstraction - LF,Cooperation-Collaboration,0.7246971130371094
+8,Abstraction - LF,Game Turns,0.751387894153595
+9,Abstraction - LF,Infinite Gameplay,0.7438570261001587
+10,Abstraction - LF,Meta-Game Mechanic,0.7256978750228882
+11,Abstraction - LF,Ownership,0.6066866517066956
+12,Abstraction - LF,Pareto Optimal,0.7982019186019897
+13,Abstraction - LF,Pavlovian Interaction,0.7292463183403015
+14,Abstraction - LF,Protégé Effect,0.7033675312995911
+15,Abstraction - LF,Questions and Answers,0.6811569929122925
+16,Abstraction - LF,Quick Feedback,0.7429182529449463
+17,Abstraction - LF,Resource Management,0.7413076162338257
+18,Abstraction - LF,Rewards,0.701050877571106
+19,Abstraction - LF,Role Playing,0.7089968323707581
+20,Abstraction - LF,Status,0.6720844507217407
+21,Abstraction - LF,Tile Based and Physical Movement,0.7134267091751099
+22,Abstraction - LF,Tile-Laying,0.7188621759414673
+23,Abstraction - LF,Tokens to Act as Cards or Random Elements,0.7282254099845886
+24,Abstraction - LF,Urgent Optimism,0.7425498366355896
+25,Abstraction - LF,Virality,0.6786435842514038
+26,Algorithm - LF,Action Points,0.703559160232544
+27,Algorithm - LF,Appointment,0.711024284362793
+28,Algorithm - LF,Behavioral Momentum,0.6501505374908447
+29,Algorithm - LF,Capture-Eliminate,0.6177175641059875
+30,Algorithm - LF,"Cascading Information, Cut Scene, Story",0.6871961355209351
+31,Algorithm - LF,Collecting,0.6444370746612549
+32,Algorithm - LF,Communal Discovery,0.6942302584648132
+33,Algorithm - LF,Cooperation-Collaboration,0.6311016082763672
+34,Algorithm - LF,Game Turns,0.6872607469558716
+35,Algorithm - LF,Infinite Gameplay,0.6666767597198486
+36,Algorithm - LF,Meta-Game Mechanic,0.6505255699157715
+37,Algorithm - LF,Ownership,0.5241250395774841
+38,Algorithm - LF,Pareto Optimal,0.7384421825408936
+39,Algorithm - LF,Pavlovian Interaction,0.6920747756958008
+40,Algorithm - LF,Protégé Effect,0.650836169719696
+41,Algorithm - LF,Questions and Answers,0.6266018152236938
+42,Algorithm - LF,Quick Feedback,0.6971734762191772
+43,Algorithm - LF,Resource Management,0.677960216999054
+44,Algorithm - LF,Rewards,0.6044443249702454
+45,Algorithm - LF,Role Playing,0.617178201675415
+46,Algorithm - LF,Status,0.5448563694953918
+47,Algorithm - LF,Tile Based and Physical Movement,0.6479018926620483
+48,Algorithm - LF,Tile-Laying,0.6619447469711304
+49,Algorithm - LF,Tokens to Act as Cards or Random Elements,0.6178706884384155
+50,Algorithm - LF,Urgent Optimism,0.6568773984909058
+51,Algorithm - LF,Virality,0.6053767204284668
+52,Automation - LF,Action Points,0.7358901500701904
+53,Automation - LF,Appointment,0.7686600685119629
+54,Automation - LF,Behavioral Momentum,0.7390919923782349
+55,Automation - LF,Capture-Eliminate,0.6471742391586304
+56,Automation - LF,"Cascading Information, Cut Scene, Story",0.6723018884658813
+57,Automation - LF,Collecting,0.7425585985183716
+58,Automation - LF,Communal Discovery,0.7146766781806946
+59,Automation - LF,Cooperation-Collaboration,0.6827131509780884
+60,Automation - LF,Game Turns,0.7275377511978149
+61,Automation - LF,Infinite Gameplay,0.7182203531265259
+62,Automation - LF,Meta-Game Mechanic,0.729193925857544
+63,Automation - LF,Ownership,0.5787858963012695
+64,Automation - LF,Pareto Optimal,0.7356064915657043
+65,Automation - LF,Pavlovian Interaction,0.7318292260169983
+66,Automation - LF,Protégé Effect,0.6854754686355591
+67,Automation - LF,Questions and Answers,0.7015791535377502
+68,Automation - LF,Quick Feedback,0.7829602956771851
+69,Automation - LF,Resource Management,0.6591436862945557
+70,Automation - LF,Rewards,0.6904358863830566
+71,Automation - LF,Role Playing,0.6998773217201233
+72,Automation - LF,Status,0.5756886601448059
+73,Automation - LF,Tile Based and Physical Movement,0.7306162118911743
+74,Automation - LF,Tile-Laying,0.6994301080703735
+75,Automation - LF,Tokens to Act as Cards or Random Elements,0.687869668006897
+76,Automation - LF,Urgent Optimism,0.7173061370849609
+77,Automation - LF,Virality,0.6664759516716003
+78,Data- LF,Action Points,0.6763631105422974
+79,Data- LF,Appointment,0.6395729184150696
+80,Data- LF,Behavioral Momentum,0.6271846294403076
+81,Data- LF,Capture-Eliminate,0.6112065315246582
+82,Data- LF,"Cascading Information, Cut Scene, Story",0.6741133332252502
+83,Data- LF,Collecting,0.6767051219940186
+84,Data- LF,Communal Discovery,0.7017849087715149
+85,Data- LF,Cooperation-Collaboration,0.6036114692687988
+86,Data- LF,Game Turns,0.6513099670410156
+87,Data- LF,Infinite Gameplay,0.6558769941329956
+88,Data- LF,Meta-Game Mechanic,0.6369588375091553
+89,Data- LF,Ownership,0.5776044726371765
+90,Data- LF,Pareto Optimal,0.6830518245697021
+91,Data- LF,Pavlovian Interaction,0.6385631561279297
+92,Data- LF,Protégé Effect,0.6686625480651855
+93,Data- LF,Questions and Answers,0.638384222984314
+94,Data- LF,Quick Feedback,0.6864501237869263
+95,Data- LF,Resource Management,0.6581556797027588
+96,Data- LF,Rewards,0.6168321967124939
+97,Data- LF,Role Playing,0.6030380725860596
+98,Data- LF,Status,0.6625126600265503
+99,Data- LF,Tile Based and Physical Movement,0.6367379426956177
+100,Data- LF,Tile-Laying,0.6778497695922852
+101,Data- LF,Tokens to Act as Cards or Random Elements,0.6033295392990112
+102,Data- LF,Urgent Optimism,0.620670735836029
+103,Data- LF,Virality,0.6507046222686768
+104,Decomposition - LF,Action Points,0.6508364677429199
+105,Decomposition - LF,Appointment,0.692207932472229
+106,Decomposition - LF,Behavioral Momentum,0.6150199174880981
+107,Decomposition - LF,Capture-Eliminate,0.6361628174781799
+108,Decomposition - LF,"Cascading Information, Cut Scene, Story",0.6492648124694824
+109,Decomposition - LF,Collecting,0.6410692930221558
+110,Decomposition - LF,Communal Discovery,0.7307106852531433
+111,Decomposition - LF,Cooperation-Collaboration,0.6703492403030396
+112,Decomposition - LF,Game Turns,0.6673619151115417
+113,Decomposition - LF,Infinite Gameplay,0.6532934904098511
+114,Decomposition - LF,Meta-Game Mechanic,0.6192764043807983
+115,Decomposition - LF,Ownership,0.5336928367614746
+116,Decomposition - LF,Pareto Optimal,0.7482794523239136
+117,Decomposition - LF,Pavlovian Interaction,0.6351282596588135
+118,Decomposition - LF,Protégé Effect,0.6074984073638916
+119,Decomposition - LF,Questions and Answers,0.5901951789855957
+120,Decomposition - LF,Quick Feedback,0.6630572080612183
+121,Decomposition - LF,Resource Management,0.6896069645881653
+122,Decomposition - LF,Rewards,0.5761221647262573
+123,Decomposition - LF,Role Playing,0.6083613634109497
+124,Decomposition - LF,Status,0.6338419318199158
+125,Decomposition - LF,Tile Based and Physical Movement,0.6497662663459778
+126,Decomposition - LF,Tile-Laying,0.6373159289360046
+127,Decomposition - LF,Tokens to Act as Cards or Random Elements,0.6307332515716553
+128,Decomposition - LF,Urgent Optimism,0.6110305190086365
+129,Decomposition - LF,Virality,0.5965654253959656
+130,Evaluation - LF,Action Points,0.7742524147033691
+131,Evaluation - LF,Appointment,0.7131143808364868
+132,Evaluation - LF,Behavioral Momentum,0.7222037315368652
+133,Evaluation - LF,Capture-Eliminate,0.7370973825454712
+134,Evaluation - LF,"Cascading Information, Cut Scene, Story",0.7450377941131592
+135,Evaluation - LF,Collecting,0.755074143409729
+136,Evaluation - LF,Communal Discovery,0.7778486609458923
+137,Evaluation - LF,Cooperation-Collaboration,0.7015482187271118
+138,Evaluation - LF,Game Turns,0.7247025966644287
+139,Evaluation - LF,Infinite Gameplay,0.7512980699539185
+140,Evaluation - LF,Meta-Game Mechanic,0.754248857498169
+141,Evaluation - LF,Ownership,0.6337993144989014
+142,Evaluation - LF,Pareto Optimal,0.7846988439559937
+143,Evaluation - LF,Pavlovian Interaction,0.7407287359237671
+144,Evaluation - LF,Protégé Effect,0.7526429295539856
+145,Evaluation - LF,Questions and Answers,0.6958141326904297
+146,Evaluation - LF,Quick Feedback,0.7636227607727051
+147,Evaluation - LF,Resource Management,0.766273558139801
+148,Evaluation - LF,Rewards,0.7241777777671814
+149,Evaluation - LF,Role Playing,0.7325366735458374
+150,Evaluation - LF,Status,0.652672290802002
+151,Evaluation - LF,Tile Based and Physical Movement,0.695366382598877
+152,Evaluation - LF,Tile-Laying,0.7482283711433411
+153,Evaluation - LF,Tokens to Act as Cards or Random Elements,0.6961005926132202
+154,Evaluation - LF,Urgent Optimism,0.7068310379981995
+155,Evaluation - LF,Virality,0.7041997909545898

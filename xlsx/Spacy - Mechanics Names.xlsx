@@ -1,0 +1,25 @@
+,PC,GM,score
+43,Automation,Action Points,0.7253113673885967
+106,Evaluation,Appointment,0.67128519101405
+2,Abstraction,Behavioral Momentum,0.6617471354188809
+3,Abstraction,Capture-Eliminate,0.5613662485831732
+86,Decomposition,"Cascading Information, Cut Scene, Story",0.6850795294949138
+87,Decomposition,Collecting,0.6194235504627756
+111,Evaluation,Communal Discovery,0.6085272472790009
+112,Evaluation,Cooperation-Collaboration,0.6843990594822902
+31,Algorithm,Infinite Gameplay,0.43653952849683947
+52,Automation,Meta-Game Mechanic,0.48575501309029356
+53,Automation,Ownership (GM),0.3868483034296014
+33,Algorithm,Pareto Optimal,0.6007685655420583
+11,Abstraction,Pavlovian Interaction,0.7658171799795401
+117,Evaluation,Protégé Effect,0.6259600770572791
+118,Evaluation,Questions and Answers,0.7031731295336711
+58,Automation,Quick Feedback,0.47936093143255715
+120,Evaluation,Resource Management,0.7803108908311498
+60,Automation,Rewards,0.393188422929505
+122,Evaluation,Role Playing,0.45119540891582605
+123,Evaluation,Status,0.553154491463608
+124,Evaluation,Tile Based and Physical Movement,0.7621909992260394
+20,Abstraction,Tile-Laying,0.40797038186821094
+21,Abstraction,Tokens to Act as Cards or Random Elements,0.513334496791377
+127,Evaluation,Urgent Optimism,0.508988334039151

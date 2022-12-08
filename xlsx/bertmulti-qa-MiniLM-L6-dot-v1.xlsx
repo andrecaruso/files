@@ -1,0 +1,58 @@
+,PC,GM,score
+0,Abstraction,"Cascading Information, Cut Scene, Story",0.3356685936450958
+1,Abstraction,Collecting,0.3408898711204529
+2,Abstraction,Cooperation-Collaboration,0.32147127389907837
+3,Abstraction,Infinite Gameplay,0.3718624711036682
+4,Abstraction,Protégé Effect,0.39760950207710266
+5,Abstraction,Tile Based and Physical Movement,0.3768543004989624
+6,Abstraction,Tokens to Act as Cards or Random Elements,0.42527878284454346
+7,Algorithm,Appointment,0.36240535974502563
+8,Algorithm,"Cascading Information, Cut Scene, Story",0.3807118833065033
+9,Algorithm,Collecting,0.332147479057312
+10,Algorithm,Pavlovian Interaction,0.35395950078964233
+11,Algorithm,Protégé Effect,0.37898528575897217
+12,Algorithm,Questions and Answers,0.3092801868915558
+13,Algorithm,Role Playing,0.33690905570983887
+14,Algorithm,Tile Based and Physical Movement,0.3145938813686371
+15,Automation,Appointment,0.4479793906211853
+16,Automation,Collecting,0.31993645429611206
+17,Automation,Cooperation-Collaboration,0.3332456052303314
+18,Automation,Infinite Gameplay,0.3851945102214813
+19,Automation,Protégé Effect,0.39708805084228516
+20,Automation,Quick Feedback,0.385689377784729
+21,Automation,Role Playing,0.42700448632240295
+22,Automation,Tile Based and Physical Movement,0.3990834057331085
+23,Automation,Tile-Laying,0.38433846831321716
+24,Automation,Urgent Optimism,0.30477553606033325
+25,Data,"Cascading Information, Cut Scene, Story",0.35534143447875977
+26,Data,Collecting,0.3216838240623474
+27,Data,Protégé Effect,0.31954246759414673
+28,Data,Tile Based and Physical Movement,0.47231608629226685
+29,Decomposition,Appointment,0.3605736494064331
+30,Decomposition,Capture-Eliminate,0.3069040775299072
+31,Decomposition,"Cascading Information, Cut Scene, Story",0.39749667048454285
+32,Decomposition,Collecting,0.3216537833213806
+33,Decomposition,Pareto Optimal,0.33310526609420776
+34,Decomposition,Pavlovian Interaction,0.33683186769485474
+35,Decomposition,Protégé Effect,0.3252958357334137
+36,Decomposition,Questions and Answers,0.3471583127975464
+37,Decomposition,Role Playing,0.40141648054122925
+38,Decomposition,Tile Based and Physical Movement,0.48009413480758667
+39,Decomposition,Tokens to Act as Cards or Random Elements,0.30674275755882263
+40,Evaluation,Appointment,0.4371182322502136
+41,Evaluation,Capture-Eliminate,0.38684049248695374
+42,Evaluation,"Cascading Information, Cut Scene, Story",0.33785393834114075
+43,Evaluation,Cooperation-Collaboration,0.42166098952293396
+44,Evaluation,Game Turns,0.3229743540287018
+45,Evaluation,Infinite Gameplay,0.4823409616947174
+46,Evaluation,Meta-Game Mechanic,0.3367900848388672
+47,Evaluation,Pareto Optimal,0.4144267439842224
+48,Evaluation,Pavlovian Interaction,0.45175349712371826
+49,Evaluation,Protégé Effect,0.44449812173843384
+50,Evaluation,Questions and Answers,0.386007159948349
+51,Evaluation,Quick Feedback,0.3569851517677307
+52,Evaluation,Role Playing,0.3328693211078644
+53,Evaluation,Tile Based and Physical Movement,0.32092729210853577
+54,Evaluation,Tile-Laying,0.3518904149532318
+55,Evaluation,Urgent Optimism,0.3154948055744171
+56,Evaluation,Virality,0.32891759276390076

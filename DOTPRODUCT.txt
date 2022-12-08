@@ -1,0 +1,112 @@
+Limiar: 30%
+-------------
+multi-qa-MiniLM-L6-dot-v1
+Abstraction / Appointment Cosine-Similarity: 30.8327
+Abstraction / Behavioral Momentum Cosine-Similarity: 31.1442
+Abstraction / Cascading Information, Cut Scene, Story Cosine-Similarity: 37.1343
+Abstraction / Collecting Cosine-Similarity: 33.0482
+Abstraction / Game Turns Cosine-Similarity: 31.8195
+Abstraction / Infinite Gameplay Cosine-Similarity: 30.6200
+Abstraction / Meta-Game Mechanic Cosine-Similarity: 30.3290
+Abstraction / Pareto Optimal Cosine-Similarity: 32.6595
+Abstraction / Pavlovian Interaction Cosine-Similarity: 34.3115
+Abstraction / Protégé Effect Cosine-Similarity: 36.1788
+Abstraction / Questions and Answers Cosine-Similarity: 34.0044
+Abstraction / Quick Feedback Cosine-Similarity: 33.4174
+Abstraction / Role Playing Cosine-Similarity: 31.1954
+Abstraction / Status Cosine-Similarity: 34.5158
+Abstraction / Tile Based and Physical Movement Cosine-Similarity: 30.6391
+Abstraction / Tile-Laying Cosine-Similarity: 30.7209
+Abstraction / Tokens to Act as Cards or Random Elements Cosine-Similarity: 33.3670
+Abstraction / Urgent Optimism Cosine-Similarity: 34.3889
+Algorithm / Action Points Cosine-Similarity: 30.9029
+Algorithm / Appointment Cosine-Similarity: 34.8076
+Algorithm / Behavioral Momentum Cosine-Similarity: 31.8480
+Algorithm / Cascading Information, Cut Scene, Story Cosine-Similarity: 32.0230
+Algorithm / Collecting Cosine-Similarity: 31.3093
+Algorithm / Communal Discovery Cosine-Similarity: 34.5132
+Algorithm / Cooperation-Collaboration Cosine-Similarity: 32.4695
+Algorithm / Game Turns Cosine-Similarity: 33.3677
+Algorithm / Meta-Game Mechanic Cosine-Similarity: 30.9669
+Algorithm / Ownership Cosine-Similarity: 30.3695
+Algorithm / Pareto Optimal Cosine-Similarity: 37.2847
+Algorithm / Pavlovian Interaction Cosine-Similarity: 37.6955
+Algorithm / Protégé Effect Cosine-Similarity: 32.1637
+Algorithm / Questions and Answers Cosine-Similarity: 34.1104
+Algorithm / Quick Feedback Cosine-Similarity: 33.0976
+Algorithm / Resource Management Cosine-Similarity: 37.2053
+Algorithm / Rewards Cosine-Similarity: 30.4809
+Algorithm / Role Playing Cosine-Similarity: 31.7507
+Algorithm / Status Cosine-Similarity: 30.1042
+Algorithm / Tile Based and Physical Movement Cosine-Similarity: 32.4878
+Algorithm / Tile-Laying Cosine-Similarity: 30.5382
+Algorithm / Tokens to Act as Cards or Random Elements Cosine-Similarity: 30.5905
+Algorithm / Urgent Optimism Cosine-Similarity: 31.9361
+Algorithm / Virality Cosine-Similarity: 30.5152
+Automation / Action Points Cosine-Similarity: 33.2794
+Automation / Appointment Cosine-Similarity: 35.4990
+Automation / Cascading Information, Cut Scene, Story Cosine-Similarity: 33.9971
+Automation / Collecting Cosine-Similarity: 30.7848
+Automation / Communal Discovery Cosine-Similarity: 32.6332
+Automation / Pareto Optimal Cosine-Similarity: 34.1300
+Automation / Pavlovian Interaction Cosine-Similarity: 35.5654
+Automation / Protégé Effect Cosine-Similarity: 35.0180
+Automation / Questions and Answers Cosine-Similarity: 32.8240
+Automation / Quick Feedback Cosine-Similarity: 35.0171
+Automation / Resource Management Cosine-Similarity: 30.0928
+Automation / Role Playing Cosine-Similarity: 36.3700
+Automation / Status Cosine-Similarity: 31.2733
+Automation / Tile Based and Physical Movement Cosine-Similarity: 33.1984
+Automation / Tokens to Act as Cards or Random Elements Cosine-Similarity: 32.0693
+Automation / Virality Cosine-Similarity: 32.5355
+Data / Capture-Eliminate Cosine-Similarity: 30.6833
+Data / Cascading Information, Cut Scene, Story Cosine-Similarity: 37.1044
+Data / Collecting Cosine-Similarity: 34.5381
+Data / Pareto Optimal Cosine-Similarity: 30.1221
+Data / Pavlovian Interaction Cosine-Similarity: 30.6749
+Data / Questions and Answers Cosine-Similarity: 30.2108
+Data / Quick Feedback Cosine-Similarity: 32.1330
+Data / Resource Management Cosine-Similarity: 30.6142
+Data / Status Cosine-Similarity: 32.3234
+Data / Tile Based and Physical Movement Cosine-Similarity: 31.2193
+Data / Tokens to Act as Cards or Random Elements Cosine-Similarity: 30.1549
+Decomposition / Appointment Cosine-Similarity: 31.2709
+Decomposition / Cascading Information, Cut Scene, Story Cosine-Similarity: 33.9043
+Decomposition / Collecting Cosine-Similarity: 31.6966
+Decomposition / Communal Discovery Cosine-Similarity: 34.1696
+Decomposition / Cooperation-Collaboration Cosine-Similarity: 33.0093
+Decomposition / Game Turns Cosine-Similarity: 31.1958
+Decomposition / Meta-Game Mechanic Cosine-Similarity: 30.8687
+Decomposition / Pareto Optimal Cosine-Similarity: 36.7367
+Decomposition / Pavlovian Interaction Cosine-Similarity: 33.1487
+Decomposition / Questions and Answers Cosine-Similarity: 31.4470
+Decomposition / Quick Feedback Cosine-Similarity: 33.7127
+Decomposition / Resource Management Cosine-Similarity: 31.9115
+Decomposition / Role Playing Cosine-Similarity: 32.2252
+Decomposition / Status Cosine-Similarity: 30.4934
+Decomposition / Tile Based and Physical Movement Cosine-Similarity: 33.5639
+Decomposition / Virality Cosine-Similarity: 32.9310
+Evaluation / Appointment Cosine-Similarity: 35.2304
+Evaluation / Behavioral Momentum Cosine-Similarity: 31.3178
+Evaluation / Capture-Eliminate Cosine-Similarity: 34.3437
+Evaluation / Cascading Information, Cut Scene, Story Cosine-Similarity: 31.9659
+Evaluation / Meta-Game Mechanic Cosine-Similarity: 30.5076
+Evaluation / Pareto Optimal Cosine-Similarity: 39.3406
+Evaluation / Pavlovian Interaction Cosine-Similarity: 33.4663
+Evaluation / Protégé Effect Cosine-Similarity: 32.6754
+Evaluation / Questions and Answers Cosine-Similarity: 32.6905
+Evaluation / Quick Feedback Cosine-Similarity: 34.2770
+Evaluation / Resource Management Cosine-Similarity: 30.2451
+Evaluation / Rewards Cosine-Similarity: 33.1639
+Evaluation / Role Playing Cosine-Similarity: 30.0067
+Evaluation / Status Cosine-Similarity: 34.8668
+Evaluation / Urgent Optimism Cosine-Similarity: 30.6767
+Evaluation / Virality Cosine-Similarity: 32.8445
+total: 101
+-------------
+
+multi-qa-distilbert-dot-v1
+total: 0
+
+-------------
+multi-qa-mpnet-base-dot-v1
